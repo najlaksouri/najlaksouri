@@ -1,10 +1,9 @@
 ### Hi there 👋 I'm Najla 
 
 
-I'm an agronomic Engineer whos is passionate about plant genomics 🌱 and bioinformatics 
+I'm an agronomic Engineer who is passionate about plant genomics 🌱🧬 and bioinformatics :computer:
 
-- 🔭 I’m currently finishing my PhD thesis
-<img align="center" width="300" height="300"  src="https://raw.githubusercontent.com/lauragift21/lauragift21/master/code.gif">.
+- 🔭 I’m currently finishing my PhD thesis      <img align="center" width="300" height="200"  src="https://raw.githubusercontent.com/lauragift21/lauragift21/master/code.gif">.
 
  <br/>  
  <br/>  
