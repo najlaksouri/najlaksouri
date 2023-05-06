@@ -8,7 +8,6 @@ I'm an agronomic engineer who is passionate about plant genomics 🌱🧬 and bi
 <img align="center" width="300" height="200" src="https://raw.githubusercontent.com/lauragift21/lauragift21/master/code.gif">.
 
 <br/>  
-<br/>  
 
 ## 📖 A little more about me
 
@@ -20,8 +19,7 @@ I'm an agronomic engineer who is passionate about plant genomics 🌱🧬 and bi
 
 - I'm a Night 🦉
 
- <br/>  
- <br/>  
+ <br/> 
 
 ## 👨‍💻Languages and Tools:
 
@@ -30,8 +28,7 @@ I'm an agronomic engineer who is passionate about plant genomics 🌱🧬 and bi
     <img src="https://skillicons.dev/icons?i=git,github,css,html,docker,bash,linux,r" />
     </a>
 </p>
-<br/>  
-<br/>  
+<br/> 
 
 ## 💬 Learning: 
 
@@ -41,7 +38,6 @@ I'm an agronomic engineer who is passionate about plant genomics 🌱🧬 and bi
     </a>
 </p>
 <br/>  
-<br/>
 
 ## 📫 How to get in touch
 
