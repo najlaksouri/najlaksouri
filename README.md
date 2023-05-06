@@ -23,8 +23,6 @@ I'm an agronomic engineer who is passionate about plant genomics 🌱🧬 and bi
  <br/>  
  <br/>  
 
-
-
 ## 👨‍💻Languages and Tools:
 
 <p align="left">
@@ -33,7 +31,7 @@ I'm an agronomic engineer who is passionate about plant genomics 🌱🧬 and bi
     </a>
 </p>
 <br/>  
-
+<br/>  
 
 ## 💬 Learning: 
 
@@ -42,7 +40,8 @@ I'm an agronomic engineer who is passionate about plant genomics 🌱🧬 and bi
     <img src="https://skillicons.dev/icons?i=mysql,py" />
     </a>
 </p>
-
+<br/>  
+<br/>
 
 ## 📫 How to get in touch
 
