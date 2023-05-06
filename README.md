@@ -7,7 +7,6 @@ I'm an agronomic engineer who is passionate about plant genomics 🌱🧬 and bi
 
 <img align="center" width="300" height="200" src="https://raw.githubusercontent.com/lauragift21/lauragift21/master/code.gif">.
 
-<br/>  
 
 ## 📖 A little more about me
 
@@ -40,7 +39,6 @@ I'm an agronomic engineer who is passionate about plant genomics 🌱🧬 and bi
 <br/>  
 
 ## 📫 How to get in touch
-
 
 - Twitter: https://twitter.com/NajlaKsouri
 - ResearchGate: https://www.researchgate.net/profile/Najla-Ksouri
