@@ -1,36 +1,41 @@
-### Hi there 👋 I'm Najla 
+## Hi there 👋 I'm Najla 
 
 
-I'm an agronomic Engineer who is passionate about plant genomics 🌱🧬 and bioinformatics :computer:
+I'm an agronomic engineer who is passionate about plant genomics 🌱🧬 and bioinformatics :computer:
 
-- 🔭 I’m currently finishing my PhD thesis      <img align="center" width="300" height="200"  src="https://raw.githubusercontent.com/lauragift21/lauragift21/master/code.gif">.
+<br/>  
+
+<img align="center" width="300" height="200" src="https://raw.githubusercontent.com/lauragift21/lauragift21/master/code.gif">.
+
+<br/>  
+<br/>  
+
+## 📖 A little more about me
+
+- 🎓 I’m currently finishing my PhD thesis about computational genomics applied in peach breeding 🍑 ██████████████░░░
+
+- 🎯 In the near future, I plan to continue with the research activities and find a postdoc position ❤️
+
+- 💬 Ask me about SNPs discovery, GWAS analysis, Prediction of plant motifs, High throughput data analysis
+
+- I'm a Night 🦉
 
  <br/>  
  <br/>  
- <br/>  
- <br/>  
- <br/>  
 
 
 
-
-
-
-
-#### Languages and Tools:
+## 👨‍💻Languages and Tools:
 
 <p align="left">
     <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,css,docker,github,bash,html,linux,r" />
     </a>
 </p>
- <br/>  
- 
- 
- 
- 
+<br/>  
 
-#### Learning: 
+
+## 💬 Learning: 
 
 <p align="left">
     <a href="https://skillicons.dev">
@@ -39,7 +44,7 @@ I'm an agronomic Engineer who is passionate about plant genomics 🌱🧬 and bi
 </p>
 
 
-***Get in touch***
+## 📫 How to get in touch
 
 
 - Twitter: https://twitter.com/NajlaKsouri
@@ -48,6 +53,8 @@ I'm an agronomic Engineer who is passionate about plant genomics 🌱🧬 and bi
 - Email: najlaksouri@gmail.com
      
  <br/>  
+
+
 
 <!--
 **najlaksouri/najlaksouri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
