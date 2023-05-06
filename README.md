@@ -27,7 +27,7 @@ I'm an agronomic engineer who is passionate about plant genomics 🌱🧬 and bi
 
 <p align="left">
     <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,css,html,docker,bash,,linux,r" />
+    <img src="https://skillicons.dev/icons?i=git,github,css,html,docker,bash,linux,r" />
     </a>
 </p>
 <br/>  
