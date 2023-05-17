@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm Najla  
-![](https://komarev.com/ghpvc/?username=najlaksouri)
+![](https://komarev.com/ghpvc/?username=najlaksouri&color=brightgreen)
 
 I'm an agronomic engineer who is passionate about plant genomics 🌱🧬 and bioinformatics :computer:
 
